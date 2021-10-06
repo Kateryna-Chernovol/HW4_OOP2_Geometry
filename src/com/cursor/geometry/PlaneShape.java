@@ -2,7 +2,7 @@ package com.cursor.geometry;
 
 import java.util.List;
 
-public class PlaneShape extends Shape implements PerimeterMeasurable, AreaMeasurable{
+public class PlaneShape extends Shape implements PerimeterMeasurable, AreaMeasurable {
     /**
      * PlaneShape – base class for all plane (2D) shapes,
      * holds a list of 2D vertices (holding x and y),
